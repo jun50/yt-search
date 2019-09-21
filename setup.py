@@ -5,7 +5,7 @@ from os import path
 setup(
     name='yt_search',
     packages=['yt_search'],
-    version='1.1.0.rev1',
+    version='1.2.0',
     python_requires='>=3.6',
     license='GPLv3',
     url='https://github.com/jun50/yt-search',
@@ -18,6 +18,6 @@ setup(
     classifiers=[
         'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
         'Programming Language :: Python :: 3.7',
-	'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.6',
     ]
 )
